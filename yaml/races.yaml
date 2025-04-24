@@ -1,0 +1,27 @@
+races:
+  - value: "Human"
+    weight: 40
+  - value: "Dwarf"
+    weight: 20
+  - value: "Halfling"
+    weight: 28
+  - value: "Gnome"
+    weight: 12
+  - value: "Dragonborn"
+    weight: 4
+  - value: "Elf"
+    weight: 8
+  - value: "Half-Elf"
+    weight: 16
+  - value: "Tiefling"
+    weight: 4
+  - value: "Half-Orc"
+    weight: 4
+  - value: "Goblin"
+    weight: 1
+  - value: "Tabaxi"
+    weight: 4
+  - value: "Aasimar"
+    weight: 1
+  - value: "Goliath"
+    weight: 4

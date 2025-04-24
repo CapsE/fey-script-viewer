@@ -1,0 +1,23 @@
+region:
+  - Desert of <sand_attr> sand
+  - Tundra
+  - Valley with fields of <crops>
+  - Forest
+  - Swamp
+  - Mountain
+  - Jungle
+  - Savanna
+
+crops:
+  - wine
+  - wheat
+  - apple trees
+  - berries
+  - spices / herbs
+
+sand_attr:
+  - golden
+  - silver
+  - red
+  - rough
+  - fine

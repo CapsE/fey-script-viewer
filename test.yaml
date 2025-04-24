@@ -1,0 +1,23 @@
+author: CapsE
+category: D&D (Fantasy)
+output:
+  value: "In a <region> <factions> is in conflict with <factions> because of <fightReason>."
+<<yaml/races.yaml>>:
+<<yaml/classes.yaml>>:
+<<yaml/creatures.yaml>>:
+<<yaml/factions.yaml>>:
+<<yaml/region.yaml>>:
+fightReason:
+  - food
+  - a magical artifact
+  - a corrupt leader
+  - religion
+  - valuable resources
+  - a place of tactical importance
+  - a place of magical importance
+  - covering up a secret
+  - magical compulsion
+  - to rescue a captive
+  - a misunderstanding or mistaken identity
+  - revenge for a past wrong
+  - the fear of an emerging threat

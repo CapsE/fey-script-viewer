@@ -1,0 +1,27 @@
+factionSizeWild:
+  - group
+  - horde
+  - bunch
+  - pack
+  - swarm
+  - herd
+factionSizeCivil:
+  - regiment
+  - circle
+  - group
+  - county
+  - settlement
+  - city
+factionCivil:
+  - A single <classes>
+  - value: A <factionSizeCivil> of <classes>s
+    weight: 3
+  - value: A <factionSizeCivil> of <races>s
+    weight: 5
+factionWild:
+  - A single <creatures>
+  - value: A <factionSizeWild> of <creatures>s
+    weight: 5
+factions:
+  - <factionCivil>
+  - <factionWild>
