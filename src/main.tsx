@@ -30,9 +30,9 @@ Languages --
 CR 2 (XP 450; PB +2)
 
 ## Actions
-__Bite.__ Melee Attack Roll: +6, reach 5 ft. Hit: 15 (2d10 + 4) Piercing damage.
+__Bite.__ Melee Attack Roll: +6, reach 5 ft. Hit: 15 (2d10+4) Piercing damage.
 
-__Claws.__ Melee Attack Roll: +6, reach 5 ft. Hit: 8 (1d8 + 4) Slashing damage. If the target is a Large or smaller creature and the allosaurus moved 30+ feet straight toward it immediately before the hit, the target has the Prone condition, and the allosaurus can make one Bite attack against it.
+__Claws.__ Melee Attack Roll: +6, reach 5 ft. Hit: 8 (1d8+4) Slashing damage. If the target is a Large or smaller creature and the allosaurus moved 30+ feet straight toward it immediately before the hit, the target has the Prone condition, and the allosaurus can make one Bite attack against it.
 
 ## Values
 i[hp;{"value":51}]

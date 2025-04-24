@@ -18,6 +18,10 @@ function App({code}: AppProps) {
                     console.log(e);
                     setData(e);
                 }}
+                onDiceRoll={(e) => {
+                    console.log(e);
+                    alert(e.result.output);
+                }}
             />
         </div>
         <div>
